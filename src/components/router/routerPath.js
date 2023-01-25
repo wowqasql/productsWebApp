@@ -1,0 +1,6 @@
+export const HOME_PAGE = '/'
+export const CATEGORY = '/category'
+export const PRODUCTS = '/products'
+export const ABOUT = '/about'
+export const ADMIN_PAGE ='/admin'
+export const LOGIN ='/login'
